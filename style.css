@@ -469,7 +469,7 @@ reviews entirely as they were fun to code, but they dont really fit.*/
 	width: 80%;
 	/*Sets the background for the banner at the bottom of the page. */
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-		url(images/gallery-2.jpg);
+		url(images/gallery-2.png);
 	background-position: center;
 	background-size: cover;
 	border-radius: 35px;
